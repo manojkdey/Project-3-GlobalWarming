@@ -1,0 +1,17 @@
+pip install cufflinks
+pip install fbprophet
+
+https://towardsdatascience.com/time-series-analysis-and-climate-change-7bb4371021e
+
+Add references
+
+
+ Flask allows you to register environment variables that you want to be automatically imported when you run the flask command. 
+To use this option you have to install the python-dotenv package:
+
+pip install python-dotenv
+
+Then you can just write the environment variable name and value in a .flaskenv file in the top-level directory of the project:
+
+
+pip install csvtojson

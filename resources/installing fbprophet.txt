@@ -1,0 +1,16 @@
+steps in installing fbprophet
+1) conda update conda
+2) https://github.com/facebook/prophet/issues/892
+
+
+On Prompt install Ephem:
+conda install -c anaconda ephem
+Install Pystan:
+conda install -c conda-forge pystan
+Finally install Fbprophet
+conda install -c conda-forge fbprophet
+
+Find ways to put your values to Hiroku using Config -vars feature in Heroku 
+:Log on to Heroku 
+find apps(dyno) --> Settings --> Reveal Config vars --> Put your Keys there .
+
